@@ -1,4 +1,4 @@
-# I like security, I hate Java. Balance
+# I like security, I hate Java. Balanced
 
 ## Skills & Languages
   
@@ -10,9 +10,3 @@
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF3A00.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## Stats 📊
-
-![](https://komarev.com/ghpvc/?username=Aszral)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aszraln&theme=dark)
