@@ -7,7 +7,7 @@
   ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
  
   ![OSINT](https://img.shields.io/badge/OSINT-%23008080.svg?&style=for-the-badge&logo=osint&logoColor=white)
-  ![Forensics](https://img.shields.io/badge/Forensics-%23800080.svg?&style=for-the-badge&logo=forensics&logoColor=white)
+  ![Digital Forensics](https://img.shields.io/badge/Forensics-%23800080.svg?&style=for-the-badge&logo=forensics&logoColor=white)
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Metasploit](https://img.shields.io/badge/Metasploit-%23E4405F.svg?&style=for-the-badge&logo=metasploit&logoColor=white)
