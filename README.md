@@ -8,6 +8,7 @@
  
   ![OSINT](https://img.shields.io/badge/OSINT-%23008080.svg?&style=for-the-badge&logo=osint&logoColor=white)
   ![Forensics](https://img.shields.io/badge/Forensics-%23800080.svg?&style=for-the-badge&logo=forensics&logoColor=white)
+  ![Linguistics](https://img.shields.io/badge/Linguistics-%23008080.svg?&style=for-the-badge&logo=linguistics&logoColor=white)
   ![Threat Intelligence](https://img.shields.io/badge/Threat_Intelligence-%23D2691E.svg?&style=for-the-badge&logo=threatintelligence&logoColor=white)
   ![HUMINT](https://img.shields.io/badge/HUMINT-%23FF6347.svg?&style=for-the-badge&logo=humint&logoColor=white)
   ![SOMINT](https://img.shields.io/badge/SOMINT-%23FF4500.svg?&style=for-the-badge&logo=somint&logoColor=white)
