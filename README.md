@@ -14,5 +14,6 @@
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Forensics](https://img.shields.io/badge/Forensics-%23800080.svg?&style=for-the-badge&logo=forensics&logoColor=white)
-  ![5G](https://img.shields.io/badge/5G-%230080FF.svg?&style=for-the-badge&logo=5g&logoColor=white)
+  ![Binwalk](https://img.shields.io/badge/Binwalk-%2345A29E.svg?&style=for-the-badge&logo=binwalk&logoColor=white)
+  ![OSINT](https://img.shields.io/badge/OSINT-%23008080.svg?&style=for-the-badge&logo=osint&logoColor=white)
   
