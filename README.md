@@ -29,3 +29,5 @@
   ![Shodan](https://img.shields.io/badge/Shodan-%23FF0000.svg?&style=for-the-badge&logo=shodan&logoColor=white)
   ![Recon-ng](https://img.shields.io/badge/Recon--ng-%238B0000.svg?&style=for-the-badge&logo=reconng&logoColor=white)
   ![SpiderFoot](https://img.shields.io/badge/SpiderFoot-%23007396.svg?&style=for-the-badge&logo=spiderfoot&logoColor=white)
+
+  ![](https://komarev.com/ghpvc/?username=Aszral)
