@@ -4,6 +4,7 @@
   
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
  
   ![Metasploit](https://img.shields.io/badge/Metasploit-%23E4405F.svg?&style=for-the-badge&logo=metasploit&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?&style=for-the-badge&logo=nmap&logoColor=white)
