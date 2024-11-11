@@ -1,6 +1,6 @@
 # I like security, I hate Java. Balanced
 
-## Skills & Languages
+## Skills, Languages & Interests
   
   ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?&style=for-the-badge&logo=gnubash&logoColor=white)
@@ -9,6 +9,11 @@
   ![OSINT](https://img.shields.io/badge/OSINT-%23008080.svg?&style=for-the-badge&logo=osint&logoColor=white)
   ![Forensics](https://img.shields.io/badge/Forensics-%23800080.svg?&style=for-the-badge&logo=forensics&logoColor=white)
   ![Intelligence](https://img.shields.io/badge/Intelligence-%234B0082.svg?&style=for-the-badge&logo=intelligence&logoColor=white)
+  ![HUMINT](https://img.shields.io/badge/HUMINT-%23FF6347.svg?&style=for-the-badge&logo=humint&logoColor=white)
+  ![SOMINT](https://img.shields.io/badge/SOMINT-%23FF4500.svg?&style=for-the-badge&logo=somint&logoColor=white)
+  ![GEOINT](https://img.shields.io/badge/GEOINT-%233B5998.svg?&style=for-the-badge&logo=geoint&logoColor=white)
+  ![GIS](https://img.shields.io/badge/GIS-%23007396.svg?&style=for-the-badge&logo=gis&logoColor=white)
+
  
   ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?&style=for-the-badge&logo=linux&logoColor=black)
   ![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?&style=for-the-badge&logo=kalilinux&logoColor=white)
