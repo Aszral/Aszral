@@ -13,7 +13,6 @@
   ![Metasploit](https://img.shields.io/badge/Metasploit-%23E4405F.svg?&style=for-the-badge&logo=metasploit&logoColor=white)
   ![Wireshark](https://img.shields.io/badge/Wireshark-%234A4949.svg?&style=for-the-badge&logo=wireshark&logoColor=white)
   ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF3A00.svg?&style=for-the-badge&logo=burpsuite&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white)
   ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?&style=for-the-badge&logo=nmap&logoColor=white)
   ![Binwalk](https://img.shields.io/badge/Binwalk-%2345A29E.svg?&style=for-the-badge&logo=binwalk&logoColor=white)
   ![Maltego](https://img.shields.io/badge/Maltego-%231A73E8.svg?&style=for-the-badge&logo=maltego&logoColor=white)
