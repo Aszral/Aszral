@@ -1,4 +1,4 @@
-# I like security, I hate Java. Balanced
+# I like security, I hate Java.
 
 ## Skills, Languages & Interests
   
