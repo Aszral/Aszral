@@ -1,4 +1,4 @@
-# I like security, I hate Java.
+# I know things and stuff, I also hate Java.
 
 ## Skills & Interests
   
